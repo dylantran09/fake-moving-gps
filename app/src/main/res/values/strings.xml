@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FakeMovingGPS</string>
+    <string name="deep_linking_app_scheme">commonframe</string>
+    <string name="deep_linking_http_scheme">http</string>
+    <string name="deep_linking_http_host">www.commonframe.com</string>
+    <string name="deep_linking_app_host">start</string>
+
+    <string name="dialog_bt_ok">OK</string>
+    <string name="dialog_bt_yes">YES</string>
+    <string name="dialog_bt_no">NO</string>
+
+    <string name="dialog_title_error">Error!</string>
+
+    <string name="error_internet_unavailable_title">Connection Error</string>
+    <string name="error_internet_unavailable_message">Internet is unavailable, please check your connection!</string>
+    <string name="error_request_unsuccessfully">The request returned fail. Please try again!</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

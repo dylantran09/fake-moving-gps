@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LOADING DIALOG -->
+    <item name="loading_dialog_progress" type="id" />
+    <item name="loading_dialog_tv_loading" type="id" />
+    <!-- END LOADING DIALOG -->
+
+    <!-- GENERAL DIALOG -->
+    <item name="general_dialog_bt_yes" type="id" />
+    <item name="general_dialog_bt_no" type="id" />
+    <item name="general_dialog_bt_cancel" type="id" />
+    <item name="general_dialog_img_icon" type="id" />
+    <item name="general_dialog_tv_title" type="id" />
+    <item name="general_dialog_tv_message" type="id" />
+    <!-- END GENERAL DIALOG -->
+
+</resources>
